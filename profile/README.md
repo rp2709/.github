@@ -25,3 +25,4 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 -->
 
 - Alexandre Philibert [@AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+- Valentin Ricard [@valentin-ricard](https://github-com/valentin-ricard) 

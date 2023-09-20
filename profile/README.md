@@ -8,7 +8,7 @@ Do not know where to start? Have a look at the
 
 ## Teaching staff
 <!--
-Please add your name in alphabetical order (by last name) in this format:
+Please add your name in the list in alphabetical order (by last name) in this format:
 First name Last name [@GitHub username](https://github.com/USERNAME)
 -->
 
@@ -17,11 +17,10 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 
 ## Students
 <!--
-Please add your name in alphabetical order (by last name) in this format:
+Please add your name in the list in alphabetical order (by last name) in this format:
 First name Last name [@GitHub username](https://github.com/USERNAME)
 -->
 
-- Loïc Herman [@lutonite](https://github.com/Lutonite)
 - Pirakas Anthon [@apirakas](https://github.com/apirakas)
 - Loïc Herman [@lutonite](https://github.com/Lutonite)
 - Sergey Komarov [@ShadySeko](https://github.com/ShadySeko)

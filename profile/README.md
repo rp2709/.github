@@ -26,6 +26,7 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 
 - Pirakas Anthon [@apirakas](https://github.com/apirakas)
 - Kevin Farine [@KevinFarine](https://github.com/KevinFarine)
+- Simon Guggisberg [@GuggisbergSimon](https://github.com/GuggisbergSimon/)
 - Loïc Herman [@lutonite](https://github.com/Lutonite)
 - Sergey Komarov [@ShadySeko](https://github.com/ShadySeko)
 - Esteban Lopez [@EstebanLopezGomez](https://github.com/EstebanLopezGomez)

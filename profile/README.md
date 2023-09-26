@@ -25,6 +25,7 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 -->
 
 - Pirakas Anthon [@apirakas](https://github.com/apirakas)
+- Rémy Bleuer  [@RemyBlr](https://github.com/RemyBlr)
 - Sebastian Diaz [@MolinaElGringo](https://github.com/MolinaElGringo)
 - Kevin Farine [@KevinFarine](https://github.com/KevinFarine)
 - Simon Guggisberg [@GuggisbergSimon](https://github.com/GuggisbergSimon/)

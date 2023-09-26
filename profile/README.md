@@ -26,6 +26,7 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 
 - Pirakas Anthon [@apirakas](https://github.com/apirakas)
 - Rémy Bleuer  [@RemyBlr](https://github.com/RemyBlr)
+- Olin Bourquin [OlinB](https://github.com/OlinB)
 - Sebastian Diaz [@MolinaElGringo](https://github.com/MolinaElGringo)
 - Kevin Farine [@KevinFarine](https://github.com/KevinFarine)
 - Simon Guggisberg [@GuggisbergSimon](https://github.com/GuggisbergSimon/)
@@ -46,4 +47,3 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 - Jonas Troeltsch [@JonasTroeltsch](https://github.com/JonasTroeltsch)
 - Guillaume Trueb [@truebguillaume](https://github.com/truebguillaume)
 - Thomas Vuilleumier [@Cobora2001](https://github.com/Cobora2001)
-

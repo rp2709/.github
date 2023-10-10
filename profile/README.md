@@ -2,6 +2,17 @@
 
 Welcome to the DAI course at [HEIG-VD](https://heig-vd.ch), Switzerland!
 
+This course defines the basics of network communication and how all these
+communications are programmed.
+
+It will provide you with the theoretical and practical elements to know how to
+program network applications, how to interact with them and the different
+elements to pay attention to.
+
+Whether you are in security, data science, embedded or networking, you are going
+to be interacting with elements that communicate over the network. This course
+will give you a solid grounding in this world.
+
 ## Getting started
 
 Do not know where to start? Have a look at the
@@ -35,14 +46,15 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 - Romain Humair [@HumairRomain](https://github.com/HumairRomain)
 - Alexandre Iorio [@AlexandreIorio](https://github.com/AlexandreIorio)
 - Sarah Jallon [@sarsurgithub](https://github.com/sarsurgithub)
-- Ahmad Jano [@ahmadjano](https://github.com/ahmadjano) 
+- Ahmad Jano [@ahmadjano](https://github.com/ahmadjano)
 - Colin Jaques [@CoJaques](https://github.com/CoJaques)
 - Sergey Komarov [@ShadySeko](https://github.com/ShadySeko)
 - Lucas Lattion [@lucaslattion](https://github.com/lucaslattion)
 - Esteban Lopez [@EstebanLopezGomez](https://github.com/EstebanLopezGomez)
 - Arthur Menétrey [@Xenogix](https://github.com/Xenogix)
 - Theodros Mulugeta [@Theodrosrun](https://github.com/Theodrosrun)
-- Alexandre Philibert [@AlexandrePhilibert](https://github.com/AlexandrePhilibert)
+- Alexandre Philibert
+  [@AlexandrePhilibert](https://github.com/AlexandrePhilibert)
 - Gwendal Piemontesi [@gwendalpiemonte](https://github.com/gwendalpiemonte)
 - Lionel Pollien [@poLionel](https://github.com/poLionel)
 - Valentin Ricard [@valentin-ricard](https://github-com/valentin-ricard)

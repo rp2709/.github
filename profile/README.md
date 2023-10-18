@@ -5,12 +5,12 @@ Welcome to the DAI course at [HEIG-VD](https://heig-vd.ch), Switzerland!
 This course defines the basics of network communication and how all these
 communications are programmed.
 
-It will provide you with the theoretical and practical elements to know how to
-program network applications, how to interact with them and the different
-elements to pay attention to.
+At the end of the course, you will know how to define, program and deploy network
+applications, how to interact with them and the different elements to pay
+attention to make robust applications.
 
-Whether you are in security, data science, embedded or networking, you are going
-to be interacting with elements that communicate over the network. This course
+Whether you are in software, security, data science, embedded or network, you
+will have to deal with network applications (devices, APIs, etc.). This course
 will give you a solid grounding in this world.
 
 ## Getting started

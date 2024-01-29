@@ -1,13 +1,15 @@
-# HEIG-VD DAI Course
+# HEIG-VD DAI Course 2023-2024
 
-Welcome to the DAI course at [HEIG-VD](https://heig-vd.ch), Switzerland!
+Welcome to the
+[DAI course](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573) at
+[HEIG-VD](https://heig-vd.ch), Switzerland!
 
 This course defines the basics of network communication and how all these
 communications are programmed.
 
-At the end of the course, you will know how to define, program and deploy network
-applications, how to interact with them and the different elements to pay
-attention to make robust applications.
+At the end of the course, you will know how to define, program and deploy
+network applications, how to interact with them and the different elements to
+pay attention to make robust applications.
 
 Whether you are in software, security, data science, embedded or network, you
 will have to deal with network applications (devices, APIs, etc.). This course
@@ -37,7 +39,7 @@ First name Last name [@GitHub username](https://github.com/USERNAME)
 
 - Pirakas Anthon [@apirakas](https://github.com/apirakas)
 - Rémy Bleuer [@RemyBlr](https://github.com/RemyBlr)
-- Olin Bourquin [OlinB](https://github.com/OlinB)
+- Olin Bourquin [@OlinB](https://github.com/OlinB)
 - Sebastian Diaz [@MolinaElGringo](https://github.com/MolinaElGringo)
 - Kevin Farine [@KevinFarine](https://github.com/KevinFarine)
 - Calvin Graf [@CalvinGraf1](https://github.com/CalvinGraf1)

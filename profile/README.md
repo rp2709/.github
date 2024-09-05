@@ -24,7 +24,7 @@ Do not know where to start? Have a look at the
 
 - Ludovic Delafontaine [@ludelafo](https://github.com/ludelafo/)
 - TBD (for class [DAI-TIC-B](#dai-tic-b))
-- TBD (for class [DAI-TIC-C](#dai-tic-c))
+- Géraud Silvestri [@GeraudSilvestri](https://github.com/GeraudSilvestri/) (for class [DAI-TIC-C](#dai-tic-c))
 
 ## Students
 

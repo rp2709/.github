@@ -22,9 +22,11 @@ Do not know where to start? Have a look at the
 
 ## Teaching staff
 
-- Ludovic Delafontaine [@ludelafo](https://github.com/ludelafo/)
-- TBD (for class [DAI-TIC-B](#dai-tic-b))
-- Géraud Silvestri [@GeraudSilvestri](https://github.com/GeraudSilvestri/) (for class [DAI-TIC-C](#dai-tic-c))
+- Ludovic DELAFONTAINE [@ludelafo](https://github.com/ludelafo/)
+- Hadrien LOUIS [@hadrylouis](https://github.com/hadrylouis) (for class
+  [DAI-TIC-B](#dai-tic-b))
+- Géraud SILVESTRI [@GeraudSilvestri](https://github.com/GeraudSilvestri/) (for
+  class [DAI-TIC-C](#dai-tic-c))
 
 ## Students
 
@@ -43,9 +45,10 @@ READ ME PLEASE
 
 Add your name in the list in alphabetical order (by last name) in this format:
 
-- First name Last name [@GitHub username](https://github.com/USERNAME)
+- First name LAST NAME [@GitHub username](https://github.com/USERNAME)
 
-It helps us when grading your work and answering your questions. Thanks!
+It helps us (the teaching staff) searching for someone when grading your work
+and answering your questions.
 -->
 
 - _None yet_
@@ -62,9 +65,10 @@ READ ME PLEASE
 
 Add your name in the list in alphabetical order (by last name) in this format:
 
-- First name Last name [@GitHub username](https://github.com/USERNAME)
+- First name LAST NAME [@GitHub username](https://github.com/USERNAME)
 
-It helps us when grading your work and answering your questions. Thanks!
+It helps us (the teaching staff) searching for someone when grading your work
+and answering your questions.
 -->
 
 - _None yet_

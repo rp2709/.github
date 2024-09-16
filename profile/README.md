@@ -1,4 +1,4 @@
-# HEIG-VD DAI Course 2023-2024
+# HEIG-VD DAI Course
 
 Welcome to the
 [Développement d'applications internet (DAI) course](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6573)
@@ -22,10 +22,10 @@ Do not know where to start? Have a look at the
 
 ## Teaching staff
 
-- Ludovic DELAFONTAINE [@ludelafo](https://github.com/ludelafo/)
-- Hadrien LOUIS [@hadrylouis](https://github.com/hadrylouis) (for class
+- Ludovic Delafontaine [@ludelafo](https://github.com/ludelafo/)
+- Hadrien Louis [@hadrylouis](https://github.com/hadrylouis) (for class
   [DAI-TIC-B](#dai-tic-b))
-- Géraud SILVESTRI [@GeraudSilvestri](https://github.com/GeraudSilvestri/) (for
+- Géraud Silvestri [@GeraudSilvestri](https://github.com/GeraudSilvestri/) (for
   class [DAI-TIC-C](#dai-tic-c))
 
 ## Students
@@ -45,7 +45,7 @@ READ ME PLEASE
 
 Add your name in the list in alphabetical order (by last name) in this format:
 
-- First name LAST NAME [@GitHub username](https://github.com/USERNAME)
+- First name Last name [@GitHub username](https://github.com/<username>)
 
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
@@ -65,7 +65,7 @@ READ ME PLEASE
 
 Add your name in the list in alphabetical order (by last name) in this format:
 
-- First name LAST NAME [@GitHub username](https://github.com/USERNAME)
+- First name Last name [@GitHub username](https://github.com/<username>)
 
 It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.

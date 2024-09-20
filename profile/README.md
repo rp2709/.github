@@ -72,3 +72,4 @@ and answering your questions.
 -->
 
 - _None yet_
+- Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)

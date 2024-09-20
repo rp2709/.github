@@ -71,5 +71,5 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
-- _None yet_
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
+- Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
